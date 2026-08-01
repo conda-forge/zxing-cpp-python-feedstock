@@ -1,5 +1,5 @@
 context:
-  version: 3.1.0
+  version: "3.1.1"
 
 package:
   name: zxing-cpp-python
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://files.pythonhosted.org/packages/source/z/zxing-cpp/zxing_cpp-${{ version }}.tar.gz
-    sha256: ecd2f0641ca2298f5decfd1746d7b08a7639523d515c5ed0c3df4e67327a6e45
+    sha256: 1051a521b21a9fe206702ad4186aeb195154e3e1badcd99576d030723f36382b
 
 build:
   number: 0
